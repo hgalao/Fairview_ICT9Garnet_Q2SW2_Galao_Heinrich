@@ -1,0 +1,31 @@
+body {
+	;text-align: center; color: white
+}
+td, button{
+	font-family: 'Gabriela';
+}
+.logo{
+	text-align: left;
+	 display: block;
+
+}
+body, html {
+  background-image: url('cristian-castillo-73pyV0JJOmE-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.home{
+	background: #aa6c53; color: black; text-decoration: underline black; text-transform: capitalize;
+}
+.dog{
+	text-transform: lowercase; text-shadow: 3px 3px 8px brown;
+}
+.pompom{
+	text-shadow: 2px 2px 8px #000000; 
+}
+.link{
+	color: white; text-shadow: black; text-decoration: underline #b7bf96;
+}
+.image{
+	border-radius: 20px; border: 1px solid;
+}
